@@ -4,10 +4,9 @@
 2.Create Carousel Component showing the snapshots of your websites created. <br/>
 3.Create Cards component as shown in the image  <br/>
 4.Create a footer in the website. <br/>
-
+<br/>
+<br/>
 <center><b>Screen Shots of Website</b>
-<br/>
-<br/>
 <br/>
 <br/>
 
